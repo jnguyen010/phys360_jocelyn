@@ -1,9 +1,16 @@
 # phys360_penny_drop
 
-Summary
-If you drop two pennies from the top of a tall building, with one penny dropping staight down and another rotating, which penny will reach terminal velocity first.
+# Summary
+
+If you drop two pennies from the top of a tall building, with one penny dropping staight down and another rotating, which penny will reach the ground first?
 
 
-What happens if a penny rotates as it is dropped from the top of the building? How does the velocity and the drag change throughout the penny's journey.
+# Background
 
+For our project, we will see what happens when you drop a penny from the top of a skyscraper. We have modeled projectile motions before, where we have considered initial velocity, gravitational acceleration, and drag/air resistance. For this project, we want to experiment what will happen when each of these factors are changed. We will also add another variable where the penny is rotating while in the air (changes in the area for air resistance).  
+
+
+# Resources
+
+xxx
 
