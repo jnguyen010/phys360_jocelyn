@@ -7,7 +7,7 @@ If you drop two pennies from the top of a tall building, with one penny dropping
 
 # Background
 
-For our project, we will see what happens when you drop a penny from the top of a skyscraper. We have modeled projectile motions before, where we have considered initial velocity, gravitational acceleration, and drag/air resistance. For this project, we want to experiment what will happen when each of these factors are changed. We will also add another variable where the penny is rotating while in the air (changes in the area for air resistance).  
+For our project, we will see what happens when you drop a penny from the top of a skyscraper. We have modeled projectile motions before, where we have considered initial velocity, gravitational acceleration, and drag/air resistance. For this project, we want to experiment what will happen when each of these factors are changed. We will also add another variable where the penny is rotating while in the air (changes in the area for air resistance). We can determine if and how rotating will affect the time which the penny will hit the ground. 
 
 
 
