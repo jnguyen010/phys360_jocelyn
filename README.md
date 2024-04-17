@@ -4,7 +4,7 @@
 
 If you drop two pennies from the top of a tall building, with one penny dropping staight down and another rotating, which penny will reach the ground first? To find this answer, we have to examine the properties of projectile motion and the variables that will impact the trajectory of the object. We can use the following equations to find the force, vecolity, and position at each point in time:
 
-$\vec{F}_{f} = m\vec{g} - \frac{1}{2} \rho C_d A |v_i| \vec{v_i}$
+$$\vec{F}_{f} = m\vec{g} - \frac{1}{2} \rho C_d A |v_i| \vec{v_i}$$
 
 $\vec{v}_f = \vec{v}_i + \frac{\vec{F}_f} {m} \Delta t $
 
