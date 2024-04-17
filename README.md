@@ -2,10 +2,10 @@
 
 ## Summary
 
-If you drop two pennies from the top of a tall building, with one penny dropping staight down and another rotating, which penny will reach the ground first? To find this answer, we have to examine the properties of projectile motion and the variables that will impact the trajectory of the object. From Newton's law, we can use the following equations:
+If you drop two pennies from the top of a tall building, with one penny dropping staight down and another rotating, which penny will reach the ground first? To find this answer, we have to examine the properties of projectile motion and the variables that will impact the trajectory of the object. We can use the following equations:
 
 $$
-\vec{F} = m \vec{a}
+\vec{F} = m \vec{a}  - \frac{1}{2} \rho C_d A v^2 \hat{v}
 $$
 
 
