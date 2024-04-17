@@ -6,9 +6,9 @@ If you drop two pennies from the top of a tall building, with one penny dropping
 
 $$\vec{F}_{f} = m\vec{g} - \frac{1}{2} \rho C_d A |v_i| \vec{v_i}$$
 
-$\vec{v}_f = \vec{v}_i + \frac{\vec{F}_f} {m} \Delta t $
+$$\vec{v}_f = \vec{v}_i + \frac{\vec{F}_f} {m} \Delta t $$
 
-$\vec{r}_f = \vec{r}_i + \vec{v}_f \Delta t $
+$$\vec{r}_f = \vec{r}_i + \vec{v}_f \Delta t $$
 
 
 ## Background
